@@ -2,7 +2,7 @@
 
 This repository contains a ROS 2 workspace for a simple Autonomous Mobile Robot (AMR) model built using URDF (Unified Robot Description Format). The project demonstrates robot modeling, wheel integration, TF frame generation, and visualization in RViz2 using both Python and C++ launch approaches.
 
-# Project Structure
+## Project Structure
 
 ```text
 AR_core2_task3/
@@ -92,7 +92,3 @@ Through this project, I gained practical understanding of:
 * TF frame management
 * Python and C++ launch systems
 * Modular robotics system design
-
-## 📜 License
-
-This project is open for learning, educational, and academic use.
